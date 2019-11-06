@@ -1,0 +1,54 @@
+header {
+    background-color: #5a0808;
+    color:navy;
+    font-size:20px;
+    
+}
+
+body {
+    
+    background-color:rgb(233, 200, 155);
+}
+
+header h1 {
+   padding: 20px; 
+   color:rgb(233, 200, 155);
+    text-align:center;
+}
+
+a {
+    text-decoration:line;
+    font-size:20px;
+    color:rgb(233, 200, 155);
+}
+
+header nav ul li {
+    display: inline-block;
+    padding:10px;
+}
+/* 
+body main article section movies {
+    display: inline-block;
+    padding: 1100px;
+} */
+
+.movies {
+    height:100;
+    display: inline-block;
+    padding: 20px;
+}
+
+
+
+
+article section h2 {
+    color:royalblue;
+}
+
+footer {
+    width:1600px;
+    background-color:#5a0808;
+    color: cornflowerblue;
+    display: block;
+    text-align: center;
+}
